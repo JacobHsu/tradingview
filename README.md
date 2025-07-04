@@ -10,5 +10,5 @@ AAVP [自動錨定成交量分佈圖](https://tw.tradingview.com/support/solutio
 
 ## Open-source script
 
-[BBI - Bull and Bear Index](https://www.tradingview.com/script/QmGxhXJ7/) 牛熊指標 MA 3 6 12 24 
-[Fibonacci Bands [BigBeluga]](https://www.tradingview.com/script/KMzbEIJy-Fibonacci-Bands-BigBeluga/)  1h 關鍵支撐和阻力區域  搭配RSI [youtube](https://www.youtube.com/watch?v=pegN5dObido)  
+[BBI - Bull and Bear Index](https://www.tradingview.com/script/QmGxhXJ7/) 牛熊指標 MA 3 6 12 24  
+[Fibonacci Bands [BigBeluga]](https://www.tradingview.com/script/KMzbEIJy-Fibonacci-Bands-BigBeluga/)  1h 關鍵支撐和阻力區域  搭配RSI [youtube](https://www.youtube.com/watch?v=pegN5dObido)   
