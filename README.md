@@ -1,5 +1,8 @@
 # tradingview
 
+[TradeSearcher](https://tradesearcher.ai/) - Find the best trading strategies
+
+
 ## Indicators
 
 
