@@ -38,20 +38,20 @@ Aroon
 Aroon Oscillator
 Average Daily Range
 Average Directional Index
-Average True Range
+Average True Range [真實波幅均值(ATR)](https://tw.tradingview.com/support/solutions/43000501823/)  波動率  
 Awesome Oscillator
 Balance of Power
-BBTrend
-Bollinger Bands
+BBTrend  
+Bollinger Bands [布林帶(BB)](https://tw.tradingview.com/support/solutions/43000501840/)  20 SMA + 價格標準差  
 Bollinger Bands %b
 Bollinger BandWidth
 Bollinger Bars
 Bull Bear Power  
 Chaikin Money Flow [蔡金資金流量(CMF)](https://tw.tradingview.com/support/solutions/43000501974/)  加強版的 ADL  
 Chaikin Oscillator
-Chande Kroll Stop
-Chande Momentum Oscillator
-Chandelier Exit
+Chande Kroll Stop [錢德克羅停損](https://tw.tradingview.com/support/solutions/43000589105/)  
+Chande Momentum Oscillator  
+Chandelier Exit [吊燈停損（Chandelier Exit）](https://tw.tradingview.com/support/solutions/43000773013/)  ATR  
 Chop Zone
 Choppiness Index
 Commodity Channel Index
@@ -73,7 +73,7 @@ Historical Volatility
 Hull Moving Average  
 Ichimoku Cloud [一目均衡表](https://tw.tradingview.com/support/solutions/43000589152/)  
 Kaufman's Adaptive Moving Average
-Keltner Channels
+Keltner Channels [肯特納通道(Keltner Channels, KC)](https://tw.tradingview.com/support/solutions/43000502266/)  20 EMA + (2 X ATR)  
 Klinger Oscillator
 Know Sure Thing
 Least Squares Moving Average  
