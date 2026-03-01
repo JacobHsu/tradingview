@@ -3,8 +3,152 @@
 [TradeSearcher](https://tradesearcher.ai/) - Find the best trading strategies
 
 
+## Tradingview [Advanced Real-Time Chart](https://www.tradingview.com/widget-docs/widgets/charts/advanced-chart/)
+
+ADL (Accumulation Distribution Line) [騰落指標(ADL)](https://tw.tradingview.com/support/solutions/43000501770/)  價格和成交量   
+[Advance/Decline Line](https://tw.tradingview.com/support/solutions/43000589092/)  市場狀況 多少股票漲跌  
+Advance/Decline Ratio [漲/跌比率](https://tw.tradingview.com/support/solutions/43000589093/) 市場狀況 上漲的股票數量除以下跌的股票數量  
+
+ALMA Arnaud Legoux Moving Average [阿諾勒古移動均線](https://tw.tradingview.com/support/solutions/43000594683/) 高斯分佈 移動平均線  
+Aroon [阿隆指標](https://tw.tradingview.com/support/solutions/43000501801/)  識別震盪走勢  
+
+
+CCI(Commodity Channel Index) 順勢指標 識別超買和超賣  計算股票當前價格與平均價格之間的差距  
+典型的CCI(20) 從該期間的每個典型價格（TP）減去最近的20日簡單移動平均值。
+
+DMI 看多空趨勢力道  OBV 看資金買賣力道  
+
+DMI (Directional Movement Index)，趨向指標或動向指標，用來評估市場趨勢和買賣市場強度。  
+OBV (On Balance Volume)，能量潮指標。是一種結合「成交量」與「價格」的技術分析工具，用來評估市場買賣雙方的力道。
+
+VWMA (Volume Weighted Moving Average) 是一種將成交量作為權重的移動平均線指標。 
+
+
 ## Indicators
 
+[Indicators List](https://www.tradingview.com/charting-library-docs/latest/ui_elements/indicators/Indicators-List/)  
+
+24-hour Volume
+Accumulation/Distribution
+Advance Decline Line
+Advance Decline Ratio
+Advance/Decline Ratio (Bars)
+Arnaud Legoux Moving Average
+Aroon
+Aroon Oscillator
+Average Daily Range
+Average Directional Index
+Average True Range
+Awesome Oscillator
+Balance of Power
+BBTrend
+Bollinger Bands
+Bollinger Bands %b
+Bollinger BandWidth
+Bollinger Bars
+Bull Bear Power
+Chaikin Money Flow
+Chaikin Oscillator
+Chande Kroll Stop
+Chande Momentum Oscillator
+Chandelier Exit
+Chop Zone
+Choppiness Index
+Commodity Channel Index
+Connors RSI
+Coppock Curve
+Correlation Coefficient
+Cumulative Volume Delta
+Cumulative Volume Index
+Detrended Price Oscillator
+Directional Movement Index
+Donchian Channels
+Double EMA
+Ease of Movement
+Elder Force Index
+Envelope
+Fisher Transform
+Gaps
+Historical Volatility
+Hull Moving Average
+Ichimoku Cloud
+Kaufman's Adaptive Moving Average
+Keltner Channels
+Klinger Oscillator
+Know Sure Thing
+Least Squares Moving Average
+Linear Regression Channel
+MA Cross
+Mass Index
+McGinley Dynamic
+Median
+Momentum
+Money Flow Index
+Moon Phases
+Moving Average Convergence Divergence
+Moving Average Exponential
+Moving Average Ribbon
+Moving Average Weighted
+Multi-Time Period Charts
+Negative Volume Index
+Net Volume
+On Balance Volume
+Open Interest
+Parabolic SAR
+Percentage Price Oscillator
+Percentage Volume Oscillator
+Performance
+Pivot Points High Low
+Pivot Points Standard
+Positive Volume Index
+Price Momentum Oscillator
+Price Target
+Price Volume Trend
+Pring's Special K
+Rank Correlation Index
+Rate Of Change
+RCI Ribbon
+Relative Strength Index
+Relative Vigor Index
+Relative Volatility Index
+Relative Volume at Time
+Rob Booker - Intraday Pivot Points
+Rob Booker - Knoxville Divergence
+Rob Booker - Missed Pivot Points
+Rob Booker - Reversal
+Rob Booker - Ziv Ghost Pivots
+RSI Divergence Indicator
+Seasonality
+Simple Moving Average
+SMI Ergodic Indicator
+SMI Ergodic Oscillator
+Smoothed Moving Average
+Stochastic
+Stochastic Momentum Index
+Stochastic RSI
+Supertrend [超級趨勢](https://tw.tradingview.com/support/solutions/43000634738/)  
+Technical Ratings [技術評級](https://tw.tradingview.com/support/solutions/43000614331/)  
+Time Weighted Average Price
+Trading Sessions
+Trend Strength Index
+Triple EMA
+TRIX
+True Strength Index
+Ulcer Index
+Ultimate Oscillator
+Up/Down Volume [上漲/下跌成交量](https://tw.tradingview.com/support/solutions/43000672561/)  
+Visible Average Price
+Volatility Stop
+Volume
+Volume Delta
+Volume Weighted Average Price
+Volume Weighted Moving Average
+Vortex Indicator
+Williams Alligator
+Williams Fractals
+Williams Percent Range
+Woodies CCI
+Zig Zag
 
 Volatility Stop [波動停損](https://tw.tradingview.com/support/solutions/43000594676/) 設定停損  
 AAVP [自動錨定成交量分佈圖](https://tw.tradingview.com/support/solutions/43000703077/) 支撐位和阻力位   
