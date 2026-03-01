@@ -62,7 +62,7 @@ Cumulative Volume Delta
 Cumulative Volume Index
 Detrended Price Oscillator
 Directional Movement Index
-Donchian Channels
+Donchian Channels [唐奇安通道(Donchian Channels, DC)](https://tw.tradingview.com/support/solutions/43000502253/)  
 Double EMA
 Ease of Movement
 Elder Force Index
@@ -71,13 +71,13 @@ Fisher Transform
 Gaps
 Historical Volatility
 Hull Moving Average
-Ichimoku Cloud
+Ichimoku Cloud [一目均衡表](https://tw.tradingview.com/support/solutions/43000589152/)  
 Kaufman's Adaptive Moving Average
 Keltner Channels
 Klinger Oscillator
 Know Sure Thing
 Least Squares Moving Average
-Linear Regression Channel
+Linear Regression Channel [線性回歸](https://tw.tradingview.com/support/solutions/43000644936/)  
 MA Cross
 Mass Index
 McGinley Dynamic
@@ -89,7 +89,7 @@ Moving Average Convergence Divergence
 Moving Average Exponential
 Moving Average Ribbon
 Moving Average Weighted
-Multi-Time Period Charts
+Multi-Time Period Charts [多時段圖表指標](https://tw.tradingview.com/support/solutions/43000502591/)  
 Negative Volume Index
 Net Volume
 On Balance Volume
@@ -102,7 +102,7 @@ Pivot Points High Low
 Pivot Points Standard
 Positive Volume Index
 Price Momentum Oscillator
-Price Target
+Price Target [分析師的價格預測](https://tw.tradingview.com/support/solutions/43000678409/)  
 Price Volume Trend
 Pring's Special K
 Rank Correlation Index
