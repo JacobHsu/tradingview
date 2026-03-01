@@ -20,8 +20,9 @@ DMI 看多空趨勢力道  OBV 看資金買賣力道
 
 DMI (Directional Movement Index)，趨向指標或動向指標，用來評估市場趨勢和買賣市場強度。  
 OBV (On Balance Volume)，能量潮指標。是一種結合「成交量」與「價格」的技術分析工具，用來評估市場買賣雙方的力道。
-
+VWAP (Volume Weighted Average Price) 代表了當天的「市場平均成本」，而 OBV 則代表了「資金流向的累積力道」  
 VWMA (Volume Weighted Moving Average) 是一種將成交量作為權重的移動平均線指標。 
+
 
 
 ## Indicators
@@ -46,7 +47,7 @@ Bollinger Bands
 Bollinger Bands %b
 Bollinger BandWidth
 Bollinger Bars
-Bull Bear Power
+Bull Bear Power  
 Chaikin Money Flow [蔡金資金流量(CMF)](https://tw.tradingview.com/support/solutions/43000501974/)  
 Chaikin Oscillator
 Chande Kroll Stop
@@ -61,7 +62,7 @@ Correlation Coefficient
 Cumulative Volume Delta
 Cumulative Volume Index
 Detrended Price Oscillator
-Directional Movement Index
+Directional Movement Index  
 Donchian Channels [唐奇安通道(Donchian Channels, DC)](https://tw.tradingview.com/support/solutions/43000502253/)  
 Double EMA
 Ease of Movement
@@ -70,15 +71,15 @@ Envelope
 Fisher Transform
 Gaps
 Historical Volatility
-Hull Moving Average
+Hull Moving Average  
 Ichimoku Cloud [一目均衡表](https://tw.tradingview.com/support/solutions/43000589152/)  
 Kaufman's Adaptive Moving Average
 Keltner Channels
 Klinger Oscillator
 Know Sure Thing
-Least Squares Moving Average
+Least Squares Moving Average  
 Linear Regression Channel [線性回歸](https://tw.tradingview.com/support/solutions/43000644936/)  
-MA Cross
+MA Cross [MA交叉](https://tw.tradingview.com/support/solutions/43000599879/)  MA9和MA21  
 Mass Index
 McGinley Dynamic
 Median
@@ -88,10 +89,10 @@ Moon Phases
 Moving Average Convergence Divergence
 Moving Average Exponential
 Moving Average Ribbon
-Moving Average Weighted
+Moving Average Weighted  
 Multi-Time Period Charts [多時段圖表指標](https://tw.tradingview.com/support/solutions/43000502591/)  
 Negative Volume Index
-Net Volume
+Net Volume  
 On Balance Volume [能量潮指標(OBV)](https://tw.tradingview.com/support/solutions/43000502593/)  
 Open Interest
 Parabolic SAR [拋物線 SAR (SAR)](https://tw.tradingview.com/support/solutions/43000502597/)   
@@ -101,7 +102,7 @@ Performance
 Pivot Points High Low
 Pivot Points Standard
 Positive Volume Index
-Price Momentum Oscillator
+Price Momentum Oscillator  
 Price Target [分析師的價格預測](https://tw.tradingview.com/support/solutions/43000678409/)  
 Price Volume Trend
 Pring's Special K
@@ -113,9 +114,9 @@ Relative Vigor Index
 Relative Volatility Index
 Relative Volume at Time
 Rob Booker - Intraday Pivot Points
-Rob Booker - Knoxville Divergence
+Rob Booker - Knoxville Divergence  
 Rob Booker - Missed Pivot Points [Rob Booker錯過樞軸點](https://tw.tradingview.com/support/solutions/43000594678/)  
-Rob Booker - Reversal
+Rob Booker - Reversal [Rob Booker反轉](https://tw.tradingview.com/support/solutions/43000599840/)  MACD & KD  
 Rob Booker - Ziv Ghost Pivots
 RSI Divergence Indicator
 Seasonality
@@ -125,7 +126,7 @@ SMI Ergodic Oscillator
 Smoothed Moving Average
 Stochastic
 Stochastic Momentum Index
-Stochastic RSI
+Stochastic RSI  
 Supertrend [超級趨勢](https://tw.tradingview.com/support/solutions/43000634738/)  
 Technical Ratings [技術評級](https://tw.tradingview.com/support/solutions/43000614331/)  
 Time Weighted Average Price
@@ -135,17 +136,17 @@ Triple EMA
 TRIX
 True Strength Index
 Ulcer Index
-Ultimate Oscillator
+Ultimate Oscillator  
 Up/Down Volume [上漲/下跌成交量](https://tw.tradingview.com/support/solutions/43000672561/)  
 Visible Average Price
 Volatility Stop
 Volume
 Volume Delta
-Volume Weighted Average Price
+Volume Weighted Average Price [成交量加權平均價（VWAP）](https://tw.tradingview.com/support/solutions/43000502018/)  
 Volume Weighted Moving Average
-Vortex Indicator
-Williams Alligator
-Williams Fractals
+Vortex Indicator  
+Williams Alligator [威廉鱷魚](https://tw.tradingview.com/support/solutions/43000591663/)  
+Williams Fractals [威廉分型](https://tw.tradingview.com/support/solutions/43000591663/)  
 Williams Percent Range
 Woodies CCI
 Zig Zag
