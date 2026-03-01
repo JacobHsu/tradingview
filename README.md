@@ -5,8 +5,7 @@
 
 ## Tradingview [Advanced Real-Time Chart](https://www.tradingview.com/widget-docs/widgets/charts/advanced-chart/)
 
-ADL (Accumulation Distribution Line) [騰落指標(ADL)](https://tw.tradingview.com/support/solutions/43000501770/)  價格和成交量   
-[Advance/Decline Line](https://tw.tradingview.com/support/solutions/43000589092/)  市場狀況 多少股票漲跌  
+
 Advance/Decline Ratio [漲/跌比率](https://tw.tradingview.com/support/solutions/43000589093/) 市場狀況 上漲的股票數量除以下跌的股票數量  
 
 ALMA Arnaud Legoux Moving Average [阿諾勒古移動均線](https://tw.tradingview.com/support/solutions/43000594683/) 高斯分佈 移動平均線  
@@ -30,8 +29,8 @@ VWMA (Volume Weighted Moving Average) 是一種將成交量作為權重的移動
 [Indicators List](https://www.tradingview.com/charting-library-docs/latest/ui_elements/indicators/Indicators-List/)  
 
 24-hour Volume
-Accumulation/Distribution
-Advance Decline Line
+Accumulation/Distribution  
+Advance Decline Line  [騰落指標(ADL)](https://tw.tradingview.com/support/solutions/43000501770/)   整體市場漲跌  
 Advance Decline Ratio
 Advance/Decline Ratio (Bars)
 Arnaud Legoux Moving Average
@@ -48,7 +47,7 @@ Bollinger Bands %b
 Bollinger BandWidth
 Bollinger Bars
 Bull Bear Power  
-Chaikin Money Flow [蔡金資金流量(CMF)](https://tw.tradingview.com/support/solutions/43000501974/)  
+Chaikin Money Flow [蔡金資金流量(CMF)](https://tw.tradingview.com/support/solutions/43000501974/)  加強版的 ADL  
 Chaikin Oscillator
 Chande Kroll Stop
 Chande Momentum Oscillator
