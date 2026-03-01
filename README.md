@@ -94,7 +94,7 @@ Negative Volume Index
 Net Volume
 On Balance Volume [能量潮指標(OBV)](https://tw.tradingview.com/support/solutions/43000502593/)  
 Open Interest
-Parabolic SAR
+Parabolic SAR [拋物線 SAR (SAR)](https://tw.tradingview.com/support/solutions/43000502597/)   
 Percentage Price Oscillator
 Percentage Volume Oscillator
 Performance
@@ -114,7 +114,7 @@ Relative Volatility Index
 Relative Volume at Time
 Rob Booker - Intraday Pivot Points
 Rob Booker - Knoxville Divergence
-Rob Booker - Missed Pivot Points
+Rob Booker - Missed Pivot Points [Rob Booker錯過樞軸點](https://tw.tradingview.com/support/solutions/43000594678/)  
 Rob Booker - Reversal
 Rob Booker - Ziv Ghost Pivots
 RSI Divergence Indicator
