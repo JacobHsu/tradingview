@@ -47,7 +47,7 @@ Bollinger Bands %b
 Bollinger BandWidth
 Bollinger Bars
 Bull Bear Power
-Chaikin Money Flow
+Chaikin Money Flow [蔡金資金流量(CMF)](https://tw.tradingview.com/support/solutions/43000501974/)  
 Chaikin Oscillator
 Chande Kroll Stop
 Chande Momentum Oscillator
@@ -92,7 +92,7 @@ Moving Average Weighted
 Multi-Time Period Charts [多時段圖表指標](https://tw.tradingview.com/support/solutions/43000502591/)  
 Negative Volume Index
 Net Volume
-On Balance Volume
+On Balance Volume [能量潮指標(OBV)](https://tw.tradingview.com/support/solutions/43000502593/)  
 Open Interest
 Parabolic SAR
 Percentage Price Oscillator
