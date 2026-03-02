@@ -15,14 +15,14 @@ Aroon [阿隆指標](https://tw.tradingview.com/support/solutions/43000501801/) 
 CCI(Commodity Channel Index) 順勢指標 識別超買和超賣  計算股票當前價格與平均價格之間的差距  
 典型的CCI(20) 從該期間的每個典型價格（TP）減去最近的20日簡單移動平均值。
 
-DMI 看多空趨勢力道  OBV 看資金買賣力道  
+DMI 看多空趨勢力道  OBV 看資金買賣力道  ADX 看區間震盪或趨勢成形  
 
 DMI (Directional Movement Index)，趨向指標或動向指標，用來評估市場趨勢和買賣市場強度。  
 OBV (On Balance Volume)，能量潮指標。是一種結合「成交量」與「價格」的技術分析工具，用來評估市場買賣雙方的力道。
 VWAP (Volume Weighted Average Price) 代表了當天的「市場平均成本」，而 OBV 則代表了「資金流向的累積力道」  
 VWMA (Volume Weighted Moving Average) 是一種將成交量作為權重的移動平均線指標。 
 
-
+趨勢指標 Aroon 趨勢新舊 關注時間 ADX 趨勢動能 關注價格位移  
 
 ## Indicators
 
@@ -34,11 +34,11 @@ Accumulation/Distribution
 Advance Decline Line  [騰落指標(ADL)](https://tw.tradingview.com/support/solutions/43000501770/)   整體市場漲跌  
 Advance Decline Ratio
 Advance/Decline Ratio (Bars)
-Arnaud Legoux Moving Average
-Aroon
+Arnaud Legoux Moving Average  
+Aroon [阿隆指標(Aroon)](https://tw.tradingview.com/support/solutions/43000501801/)  震盪技術指標  `price` `periods`  
 Aroon Oscillator
-Average Daily Range
-Average Directional Index
+Average Daily Range  
+Average Directional Index [平均趨向指標(ADX)](https://tw.tradingview.com/support/solutions/43000589099/)  區間震盪(< 20)或趨勢成形  
 Average True Range [真實波幅均值(ATR)](https://tw.tradingview.com/support/solutions/43000501823/)  波動率  `ATR`  
 Awesome Oscillator
 Balance of Power
