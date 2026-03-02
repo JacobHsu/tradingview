@@ -39,7 +39,7 @@ Aroon
 Aroon Oscillator
 Average Daily Range
 Average Directional Index
-Average True Range [真實波幅均值(ATR)](https://tw.tradingview.com/support/solutions/43000501823/)  波動率  
+Average True Range [真實波幅均值(ATR)](https://tw.tradingview.com/support/solutions/43000501823/)  波動率  `ATR`  
 Awesome Oscillator
 Balance of Power
 BBTrend  
@@ -74,7 +74,7 @@ Historical Volatility
 Hull Moving Average  
 Ichimoku Cloud [一目均衡表](https://tw.tradingview.com/support/solutions/43000589152/)  
 Kaufman's Adaptive Moving Average
-Keltner Channels [肯特納通道(Keltner Channels, KC)](https://tw.tradingview.com/support/solutions/43000502266/)  20 EMA + (2 X ATR)  
+Keltner Channels [肯特納通道(Keltner Channels, KC)](https://tw.tradingview.com/support/solutions/43000502266/)  20 EMA + (2 X ATR)   `ATR`  
 Klinger Oscillator
 Know Sure Thing
 Least Squares Moving Average  
@@ -93,7 +93,7 @@ Moving Average Weighted
 Multi-Time Period Charts [多時段圖表指標](https://tw.tradingview.com/support/solutions/43000502591/)  
 Negative Volume Index
 Net Volume  
-On Balance Volume [能量潮指標(OBV)](https://tw.tradingview.com/support/solutions/43000502593/)  `Volume`  
+On Balance Volume [能量潮指標(OBV)](https://tw.tradingview.com/support/solutions/43000502593/)  資金買賣力道 `Volume`  
 Open Interest
 Parabolic SAR [拋物線 SAR (SAR)](https://tw.tradingview.com/support/solutions/43000502597/)   
 Percentage Price Oscillator
@@ -127,7 +127,7 @@ Smoothed Moving Average
 Stochastic
 Stochastic Momentum Index
 Stochastic RSI  
-Supertrend [超級趨勢](https://tw.tradingview.com/support/solutions/43000634738/)  
+Supertrend [超級趨勢](https://tw.tradingview.com/support/solutions/43000634738/)  趨勢檢測和波動性 改良版的 Volatility Stop（VSTOP) `ATR`  
 Technical Ratings [技術評級](https://tw.tradingview.com/support/solutions/43000614331/)  
 Time Weighted Average Price
 Trading Sessions
@@ -138,8 +138,8 @@ True Strength Index
 Ulcer Index
 Ultimate Oscillator  
 Up/Down Volume [上漲/下跌成交量](https://tw.tradingview.com/support/solutions/43000672561/)  
-Visible Average Price
-Volatility Stop
+Visible Average Price  
+Volatility Stop [波動停損](https://tw.tradingview.com/support/solutions/43000594676/)  設定停損   `ATR`  
 Volume
 Volume Delta  
 Volume Weighted Average Price [成交量加權平均價（VWAP）](https://tw.tradingview.com/support/solutions/43000502018/)  當天市場平均價格  `Volume`  
@@ -151,8 +151,8 @@ Williams Percent Range
 Woodies CCI
 Zig Zag
 
-Volatility Stop [波動停損](https://tw.tradingview.com/support/solutions/43000594676/) 設定停損  
-AAVP [自動錨定成交量分佈圖](https://tw.tradingview.com/support/solutions/43000703077/) 支撐位和阻力位   
+
+AAVP(Auto Anchored Volume Profile) [自動錨定成交量分佈圖](https://tw.tradingview.com/support/solutions/43000703077/) 支撐位和阻力位   
 [自動斐波那契回撤](https://tw.tradingview.com/support/solutions/43000585089/)  確定支撐和阻力區域  
 
 
