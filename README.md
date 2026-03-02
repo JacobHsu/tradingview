@@ -26,6 +26,7 @@ VWMA (Volume Weighted Moving Average) 是一種將成交量作為權重的移動
 
 ## Indicators
 
+charts/[advanced-chart](https://www.tradingview.com/widget-docs/widgets/charts/advanced-chart/)  
 [Indicators List](https://www.tradingview.com/charting-library-docs/latest/ui_elements/indicators/Indicators-List/)  
 
 24-hour Volume
@@ -92,7 +93,7 @@ Moving Average Weighted
 Multi-Time Period Charts [多時段圖表指標](https://tw.tradingview.com/support/solutions/43000502591/)  
 Negative Volume Index
 Net Volume  
-On Balance Volume [能量潮指標(OBV)](https://tw.tradingview.com/support/solutions/43000502593/)  
+On Balance Volume [能量潮指標(OBV)](https://tw.tradingview.com/support/solutions/43000502593/)  `Volume`  
 Open Interest
 Parabolic SAR [拋物線 SAR (SAR)](https://tw.tradingview.com/support/solutions/43000502597/)   
 Percentage Price Oscillator
@@ -140,9 +141,9 @@ Up/Down Volume [上漲/下跌成交量](https://tw.tradingview.com/support/solut
 Visible Average Price
 Volatility Stop
 Volume
-Volume Delta
-Volume Weighted Average Price [成交量加權平均價（VWAP）](https://tw.tradingview.com/support/solutions/43000502018/)  
-Volume Weighted Moving Average
+Volume Delta  
+Volume Weighted Average Price [成交量加權平均價（VWAP）](https://tw.tradingview.com/support/solutions/43000502018/)  當天市場平均價格  `Volume`  
+Volume Weighted Moving Average [成交量加權移動均線(VWMA)](https://tw.tradingview.com/support/solutions/43000592293/)  高成交量MA 價格指標 `Volume`  
 Vortex Indicator  
 Williams Alligator [威廉鱷魚](https://tw.tradingview.com/support/solutions/43000591663/)  
 Williams Fractals [威廉分型](https://tw.tradingview.com/support/solutions/43000591663/)  
