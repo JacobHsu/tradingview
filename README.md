@@ -66,8 +66,8 @@ Directional Movement Index  [動向指標(Directional Movement, DMI)](https://tw
 Donchian Channels [唐奇安通道(Donchian Channels, DC)](https://tw.tradingview.com/support/solutions/43000502253/)  
 Double EMA
 Ease of Movement
-Elder Force Index
-Envelope
+Elder Force Index  
+Envelope [包絡線(Envelope, ENV)](https://tw.tradingview.com/support/solutions/43000502260/)  
 Fisher Transform
 Gaps
 Historical Volatility
