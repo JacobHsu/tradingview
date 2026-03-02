@@ -38,7 +38,7 @@ Arnaud Legoux Moving Average
 Aroon [阿隆指標(Aroon)](https://tw.tradingview.com/support/solutions/43000501801/)  震盪技術指標  `price` `periods`  
 Aroon Oscillator
 Average Daily Range  
-Average Directional Index [平均趨向指標(ADX)](https://tw.tradingview.com/support/solutions/43000589099/)  區間震盪(< 20)或趨勢成形  
+Average Directional Index [平均趨向指標(ADX)](https://tw.tradingview.com/support/solutions/43000589099/)  區間震盪(< 20)或趨勢成形  `price` `periods`   
 Average True Range [真實波幅均值(ATR)](https://tw.tradingview.com/support/solutions/43000501823/)  波動率  `ATR`  
 Awesome Oscillator
 Balance of Power
