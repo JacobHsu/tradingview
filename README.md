@@ -60,8 +60,8 @@ Connors RSI
 Coppock Curve
 Correlation Coefficient
 Cumulative Volume Delta
-Cumulative Volume Index
-Detrended Price Oscillator
+Cumulative Volume Index  
+Detrended Price Oscillator  [區間震盪指標(Detrended Price Oscillator, DPO)](https://tw.tradingview.com/support/solutions/43000502246/) 衡量週期的持續時間 `price`   
 Directional Movement Index  [動向指標(Directional Movement, DMI)](https://tw.tradingview.com/support/solutions/43000502250/)  多空趨勢力道  `price`  
 Donchian Channels [唐奇安通道(Donchian Channels, DC)](https://tw.tradingview.com/support/solutions/43000502253/)  
 Double EMA
