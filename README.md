@@ -125,8 +125,8 @@ SMI Ergodic Indicator
 SMI Ergodic Oscillator
 Smoothed Moving Average
 Stochastic
-Stochastic Momentum Index
-Stochastic RSI  
+Stochastic Momentum Index  
+Stochastic RSI  [隨機RSI (STOCH RSI)](https://tw.tradingview.com/support/solutions/43000502333/)  震盪指標  
 Supertrend [超級趨勢](https://tw.tradingview.com/support/solutions/43000634738/)  趨勢檢測和波動性 改良版的 Volatility Stop（VSTOP) `ATR`  
 Technical Ratings [技術評級](https://tw.tradingview.com/support/solutions/43000614331/)  
 Time Weighted Average Price
@@ -145,7 +145,7 @@ Volume Delta
 Volume Weighted Average Price [成交量加權平均價（VWAP）](https://tw.tradingview.com/support/solutions/43000502018/)  當天市場平均價格  `Volume`  
 Volume Weighted Moving Average [成交量加權移動均線(VWMA)](https://tw.tradingview.com/support/solutions/43000592293/)  高成交量MA 價格指標 `Volume`  
 Vortex Indicator  
-Williams Alligator [威廉鱷魚](https://tw.tradingview.com/support/solutions/43000591663/)  
+Williams Alligator [威廉鱷魚](https://tw.tradingview.com/support/solutions/43000592305/)  
 Williams Fractals [威廉分型](https://tw.tradingview.com/support/solutions/43000591663/)  
 Williams Percent Range
 Woodies CCI
