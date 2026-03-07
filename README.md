@@ -86,8 +86,8 @@ Median
 Momentum
 Money Flow Index
 Moon Phases
-Moving Average Convergence Divergence
-Moving Average Exponential
+Moving Average Convergence Divergence   
+Moving Average Exponential [指數移動平均線](https://tw.tradingview.com/support/solutions/43000592270/)  近期價格更高權重  
 Moving Average Ribbon
 Moving Average Weighted  
 Multi-Time Period Charts [多時段圖表指標](https://tw.tradingview.com/support/solutions/43000502591/)  
@@ -119,8 +119,8 @@ Rob Booker - Missed Pivot Points [Rob Booker錯過樞軸點](https://tw.tradingv
 Rob Booker - Reversal [Rob Booker反轉](https://tw.tradingview.com/support/solutions/43000599840/)  MACD & KD  
 Rob Booker - Ziv Ghost Pivots
 RSI Divergence Indicator
-Seasonality
-Simple Moving Average
+Seasonality  
+Simple Moving Average [簡單移動平均線](https://tw.tradingview.com/support/solutions/43000696841/)  
 SMI Ergodic Indicator
 SMI Ergodic Oscillator
 Smoothed Moving Average
