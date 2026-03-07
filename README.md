@@ -64,7 +64,7 @@ Cumulative Volume Index
 Detrended Price Oscillator  [區間震盪指標(Detrended Price Oscillator, DPO)](https://tw.tradingview.com/support/solutions/43000502246/) 衡量週期的持續時間 `price`   
 Directional Movement Index  [動向指標(Directional Movement, DMI)](https://tw.tradingview.com/support/solutions/43000502250/)  多空趨勢力道  `price`  
 Donchian Channels [唐奇安通道(Donchian Channels, DC)](https://tw.tradingview.com/support/solutions/43000502253/)  
-Double EMA [雙指數移動均線(EMA)](https://tw.tradingview.com/support/solutions/43000589132/)  
+Double EMA [雙指數移動均線(EMA)](https://tw.tradingview.com/support/solutions/43000589132/)  DEMA 
 Ease of Movement
 Elder Force Index  
 Envelope [包絡線(Envelope, ENV)](https://tw.tradingview.com/support/solutions/43000502260/)  
@@ -131,9 +131,9 @@ Supertrend [超級趨勢](https://tw.tradingview.com/support/solutions/430006347
 Technical Ratings [技術評級](https://tw.tradingview.com/support/solutions/43000614331/)  
 Time Weighted Average Price
 Trading Sessions
-Trend Strength Index
-Triple EMA  
-TRIX [三重平滑均線(TRIX)](https://tw.tradingview.com/support/solutions/43000502331/) 中長線  `EMA`   
+Trend Strength Index  
+Triple EMA  [三重指數移動均線(Triple EMA)](https://tw.tradingview.com/support/solutions/43000591346/) 均線 極短線  `EMA`  
+TRIX [三重平滑均線(TRIX)](https://tw.tradingview.com/support/solutions/43000502331/) 副圖 震盪指標 中長線  `EMA`   
 True Strength Index
 Ulcer Index
 Ultimate Oscillator  
