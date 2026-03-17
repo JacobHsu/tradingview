@@ -147,9 +147,9 @@ Volume Weighted Moving Average [成交量加權移動均線(VWMA)](https://tw.tr
 Vortex Indicator  
 Williams Alligator [威廉鱷魚](https://tw.tradingview.com/support/solutions/43000592305/)  
 Williams Fractals [威廉分型](https://tw.tradingview.com/support/solutions/43000591663/)  
-Williams Percent Range
-Woodies CCI
-Zig Zag
+Williams Percent Range [威廉指標(Williams%R)](https://tw.tradingview.com/support/solutions/43000501985/)  
+Woodies CCI [伍迪CCI](https://tw.tradingview.com/support/solutions/43000594673/)  
+Zig Zag [Zig Zag](https://tw.tradingview.com/support/solutions/43000591664/)  
 
 
 AAVP(Auto Anchored Volume Profile) [自動錨定成交量分佈圖](https://tw.tradingview.com/support/solutions/43000703077/) 支撐位和阻力位   
