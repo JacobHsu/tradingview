@@ -52,7 +52,8 @@ Chaikin Money Flow [蔡金資金流量(CMF)](https://tw.tradingview.com/support/
 Chaikin Oscillator
 Chande Kroll Stop [錢德克羅停損](https://tw.tradingview.com/support/solutions/43000589105/)  
 Chande Momentum Oscillator  
-Chandelier Exit [吊燈停損（Chandelier Exit）](https://tw.tradingview.com/support/solutions/43000773013/)  ATR  
+Chandelier Exit [吊燈停損（Chandelier Exit）](https://tw.tradingview.com/support/solutions/43000773013/)  ATR    
+吊燈損停 （ Chandelier Exit） ] ( https://tw.tradingview.com/support/solutions/43000773013/ ) ATR 
 Chop Zone
 Choppiness Index
 Commodity Channel Index
@@ -75,9 +76,9 @@ Hull Moving Average
 Ichimoku Cloud [一目均衡表](https://tw.tradingview.com/support/solutions/43000589152/)  
 Kaufman's Adaptive Moving Average
 Keltner Channels [肯特納通道(Keltner Channels, KC)](https://tw.tradingview.com/support/solutions/43000502266/)  20 EMA + (2 X ATR)   `ATR`  
-Klinger Oscillator
-Know Sure Thing
-Least Squares Moving Average  
+Klinger Oscillator  
+Know Sure Thing [Know Sure Thing (KST)](https://tw.tradingview.com/support/solutions/43000502329/) `SMA`  
+Least Squares Moving Average   
 Linear Regression Channel [線性回歸](https://tw.tradingview.com/support/solutions/43000644936/)  
 MA Cross [MA交叉](https://tw.tradingview.com/support/solutions/43000599879/)  MA9和MA21  
 Mass Index
