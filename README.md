@@ -53,7 +53,6 @@ Chaikin Oscillator
 Chande Kroll Stop [錢德克羅停損](https://tw.tradingview.com/support/solutions/43000589105/)  
 Chande Momentum Oscillator  
 Chandelier Exit [吊燈停損（Chandelier Exit）](https://tw.tradingview.com/support/solutions/43000773013/)  ATR    
-吊燈損停 （ Chandelier Exit） ] ( https://tw.tradingview.com/support/solutions/43000773013/ ) ATR 
 Chop Zone
 Choppiness Index
 Commodity Channel Index
