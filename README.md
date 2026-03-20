@@ -46,13 +46,13 @@ BBTrend
 Bollinger Bands [布林帶(BB)](https://tw.tradingview.com/support/solutions/43000501840/)  20 SMA + 價格標準差  
 Bollinger Bands %b
 Bollinger BandWidth
-Bollinger Bars
-Bull Bear Power  
+Bollinger Bars   
+Bull Bear Power  [牛熊力量(BBP)指標](https://tw.tradingview.com/support/solutions/43000717955/)  `EMA`  
 Chaikin Money Flow [蔡金資金流量(CMF)](https://tw.tradingview.com/support/solutions/43000501974/)  加強版的 ADL  
 Chaikin Oscillator
 Chande Kroll Stop [錢德克羅停損](https://tw.tradingview.com/support/solutions/43000589105/)  
 Chande Momentum Oscillator  
-Chandelier Exit [吊燈停損（Chandelier Exit）](https://tw.tradingview.com/support/solutions/43000773013/)  ATR    
+Chandelier Exit [吊燈停損（Chandelier Exit）](https://tw.tradingview.com/support/solutions/43000773013/)  `ATR`      
 Chop Zone
 Choppiness Index
 Commodity Channel Index
