@@ -75,7 +75,7 @@ Gaps
 Historical Volatility
 Hull Moving Average  
 Ichimoku Cloud [一目均衡表](https://tw.tradingview.com/support/solutions/43000589152/)  
-Kaufman's Adaptive Moving Average
+Kaufman's Adaptive Moving Average  
 Keltner Channels [肯特納通道(Keltner Channels, KC)](https://tw.tradingview.com/support/solutions/43000502266/)  20 EMA + (2 X ATR)   `ATR`  
 Klinger Oscillator  
 Know Sure Thing [Know Sure Thing (KST)](https://tw.tradingview.com/support/solutions/43000502329/) `SMA`  
