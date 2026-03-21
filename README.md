@@ -13,8 +13,8 @@ Aroon [阿隆指標](https://tw.tradingview.com/support/solutions/43000501801/) 
 
 
 CCI(Commodity Channel Index) 價格動量/震盪 順勢指標 識別超買和超賣  計算股票當前價格與平均價格之間的差距  
-典型的CCI(20) 從該期間的每個典型價格（TP）減去最近的20日簡單移動平均值。
-CMF (蔡金貨幣流量指標 - Chaikin Money Flow) 資金流向「聰明錢」的溫度計，看趨勢背後有沒有錢在支撐 
+典型的CCI(20) 從該期間的每個典型價格（TP）減去最近的20日簡單移動平均值。  
+CMF (蔡金貨幣流量指標 - Chaikin Money Flow) 資金流向「聰明錢」的溫度計，看趨勢背後有沒有錢在支撐   
 MFI (資金流量指數 - Money Flow Index)  量價震盪 加權成交量的 RSI  
 
 DMI 看多空趨勢力道  OBV 看資金買賣力道  ADX 看區間震盪或趨勢成形  
@@ -85,8 +85,8 @@ MA Cross [MA交叉](https://tw.tradingview.com/support/solutions/43000599879/)  
 Mass Index
 McGinley Dynamic
 Median
-Momentum 
-Money Flow Index [資金流量(MFI)](https://tw.tradingview.com/support/solutions/43000502348/) 量價震盪  `price` 
+Momentum  
+Money Flow Index [資金流量(MFI)](https://tw.tradingview.com/support/solutions/43000502348/) 量價震盪  `price`  
 Moon Phases  
 Moving Average Convergence Divergence   
 Moving Average Exponential [指數移動平均線](https://tw.tradingview.com/support/solutions/43000592270/)  近期價格更高權重  
