@@ -12,8 +12,10 @@ ALMA Arnaud Legoux Moving Average [阿諾勒古移動均線](https://tw.tradingv
 Aroon [阿隆指標](https://tw.tradingview.com/support/solutions/43000501801/)  識別震盪走勢  
 
 
-CCI(Commodity Channel Index) 順勢指標 識別超買和超賣  計算股票當前價格與平均價格之間的差距  
+CCI(Commodity Channel Index) 價格動量/震盪 順勢指標 識別超買和超賣  計算股票當前價格與平均價格之間的差距  
 典型的CCI(20) 從該期間的每個典型價格（TP）減去最近的20日簡單移動平均值。
+CMF (蔡金貨幣流量指標 - Chaikin Money Flow) 資金流向「聰明錢」的溫度計，看趨勢背後有沒有錢在支撐 
+MFI (資金流量指數 - Money Flow Index)  量價震盪 加權成交量的 RSI  
 
 DMI 看多空趨勢力道  OBV 看資金買賣力道  ADX 看區間震盪或趨勢成形  
 
@@ -54,9 +56,9 @@ Chande Kroll Stop [錢德克羅停損](https://tw.tradingview.com/support/soluti
 Chande Momentum Oscillator  
 Chandelier Exit [吊燈停損（Chandelier Exit）](https://tw.tradingview.com/support/solutions/43000773013/)  `ATR`      
 Chop Zone
-Choppiness Index
-Commodity Channel Index
-Connors RSI
+Choppiness Index  
+Commodity Channel Index [順勢指標(CCI)](https://tw.tradingview.com/support/solutions/43000502001/)   價格動量/震盪 `price`  
+Connors RSI  
 Coppock Curve
 Correlation Coefficient
 Cumulative Volume Delta
@@ -83,9 +85,9 @@ MA Cross [MA交叉](https://tw.tradingview.com/support/solutions/43000599879/)  
 Mass Index
 McGinley Dynamic
 Median
-Momentum
-Money Flow Index
-Moon Phases
+Momentum 
+Money Flow Index [資金流量(MFI)](https://tw.tradingview.com/support/solutions/43000502348/) 量價震盪  `price` 
+Moon Phases  
 Moving Average Convergence Divergence   
 Moving Average Exponential [指數移動平均線](https://tw.tradingview.com/support/solutions/43000592270/)  近期價格更高權重  
 Moving Average Ribbon
